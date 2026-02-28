@@ -28,8 +28,8 @@ This project is a fully functional E-Commerce website developed as part of the S
 - Debugging UI responsiveness issues
 
 ## Deployment
-Live Project Link: [Paste your Vercel link here]
+Live Project Link: [https://arcades-on-demand-file5.vercel.app/]
 
 ## Author
-Your Name  
+Krushna Kadam 
 ShadowFox Internship – Web Development
